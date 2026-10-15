@@ -20,7 +20,7 @@ Next.js · React · TypeScript · Three.js · Mapbox GL
 
 ## 查看作品
 
-- [独立展示页](./index.html)
+- [在线展示页](https://lukezhuo666.github.io/LukeZ-Fut-Map/)
 - [原项目与实现记录](https://github.com/eiddiedev/Fut.Map)
 - [原项目预览](https://fm.eiddie.top)
 - [LukeZ 总作品集](https://lukezhuo666.github.io/LukeZ/)
